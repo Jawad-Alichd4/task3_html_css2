@@ -28,6 +28,7 @@ div{
     width: 45%;
     float: right;
     font-size: large;
+     background-color: rgb(241, 211, 174);
 }
 #submit{
     padding: 12px;
